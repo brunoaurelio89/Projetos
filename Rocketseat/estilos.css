@@ -1,0 +1,28 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+:root {
+
+
+}
+.header{
+    height: 4.5rem;
+}
+
+nav{
+    display: flex; /*Coloca um elemento do lado do outro*/
+    justify-content: space-between; /*Coloca um espaço entre os contéudos*/
+}
+
+.container {
+    width: 90px;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+
+
+}
+
